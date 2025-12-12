@@ -1,36 +1,47 @@
-# algnon.co — Astro site ✨
+# algnon.co ✨
 
-This repository contains the source code for **algnon.co**, built with **Astro**.  
-The goal is to keep the project simple, fast, and easy to extend as the site evolves.
+Personal website built with Astro.
 
-## 📁 Structure
+**🔗 Site:** https://algnon.co
 
-src/
-
-- components/ # reusable components
-- content/ # blog posts and Markdown/MDX content
-- layouts/ # main layouts used across the site
-- lib/ # utilities and helper functions
-- pages/ # static pages
-- styles/ # global styles
-
-## 🧰 Technologies
+## 🧰 Tech Stack
 
 - Astro
 - TypeScript
 - Markdown/MDX
-- Tailwind
+- Tailwind CSS
 
-## 🚀 Scripts
+## 📁 Project Structure
 
-- `npm install` — install dependencies
-- `npm run dev` — start the development server
-- `npm run start` — alias for `astro dev`
-- `npm run build` — run `astro check` and build for production
-- `npm run preview` — preview the production build locally
-- `npm run prettier` — format project files
-- `npm run astro` — run Astro commands directly
+```
+src/
+├── components/    # Reusable components
+├── content/       # Blog posts and MDX content
+├── layouts/       # Page layouts
+├── lib/           # Utilities and helpers
+├── pages/         # Static pages
+└── styles/        # Global styles
+```
 
-## 🎯 Goal
+## 🚀 Development
 
-Keep the codebase clean, stable, and easy to maintain as new content and updates are added.
+```bash
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
+# Format code
+npm run prettier
+```
+
+## 📄 License
+
+All rights reserved.
