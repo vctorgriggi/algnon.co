@@ -2,7 +2,7 @@
 
 Personal website built with Astro.
 
-**🔗 Site:** https://algnon.co
+**🔗 Website:** https://algnon.co
 
 ## 🧰 Tech Stack
 
